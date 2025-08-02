@@ -1,3 +1,5 @@
 app.py
 schema.sql
-carpeta templates completa
+templates
+index.html
+admin.html
